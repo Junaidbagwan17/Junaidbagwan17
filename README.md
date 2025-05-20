@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Junaidbagwan17
 - 👀 I’m interested in ...Data 
 - 🌱 I’m currently learning ...DATA SCIENCE
-- 💞️ I’m looking to collaborate on ...PYTHON PROJECTS
+- 👋 I’m looking to collaborate on ...PYTHON PROJECTS
 - 📫 How to reach me ...MSG
 - 😄 Pronouns: ... JUNAID 
 - ⚡ Fun fact: ...I AM FRESHER
